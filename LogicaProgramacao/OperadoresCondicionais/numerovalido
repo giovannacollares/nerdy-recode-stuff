@@ -1,3 +1,4 @@
+// JavaScript
 //verifica se um número é par OU divisível por 2
 
 var numero = 7
