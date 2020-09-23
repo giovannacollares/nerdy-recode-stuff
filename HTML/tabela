@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Tabela</title>
+    </head>
+        <body>
+            <table border="6";>
+            <!--caption adiciona título a tabela-->
+            <caption style="font-family:verdana;">Tabela de Endereços</caption>
+            <tr>
+                <!--th atribui importância a essa linha-->
+                <th style="font-family:verdana">Nome</th>
+                <th style="font-family:verdana">Endereço</th>
+                <th style="font-family:verdana">Bairro</th>
+            </tr>
+                           
+            <tr>
+                <td style="font-family:verdana">João</td>
+                <td style="font-family:verdana">Rua A</td>
+                <td style="font-family:verdana">Taquara</td>
+            </tr>           
+
+            <tr>
+                <td style="font-family:verdana">Marcos</td>
+                <td style="font-family:verdana">Rua B</td>
+                <td style="font-family:verdana">Campinho</td>
+            </tr>
+            
+            </table>
+        </body>
+</html>
