@@ -2,4 +2,6 @@
 _códigos feitos em aula_
 
 Possui os códigos dos exercícios feitos em aula para futura verificação. 
-É divido em pastas de acordo com as disciplinas em que são referentes.
+Esse repositório tem como princípio ser um estoque de pequenos códigos para que eu possa consultar ao longo do curso.
+E caso você chegue até ele, sinta-se a vontade para consultar também e sugerir outros exercícios pertinentes.
+É divido em pastas de acordo com as disciplinas (no caso, tecnologias e ferramentas) em que são referentes.
